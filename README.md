@@ -8,7 +8,7 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/9d34a7c
 2 Questions are asked, as of now 2 questions will be asked from these questions, provided the solution also:
 ## Programs / Questions
 - [1. Business Expansion](Business_Expansion.sql)
-- [2. Invoices per Country](Invoices_per_Country.sql)
+- [2. Customer Spending](Customer_Spending.sql)
 
 
 ## Follow me
